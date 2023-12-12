@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Post one",
+        "slug":"Post slug one",
+        "excerpt":"excerpt one",
+        "description":"Post description one",
+        "is_published":true,
+        "min_to_read":5
+    },
+    {
+        "title":"Post two",
+        "slug":"Post slug two",
+        "excerpt":"excerpt two",
+        "description":"Post description two",
+        "is_published":true,
+        "min_to_read":5
+    }
+]
